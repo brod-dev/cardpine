@@ -1,0 +1,36 @@
+# Spanish Basics
+
+// Edit this file freely. Cards are separated by a blank line.
+// Front and back are split by a line containing only ===
+
+Hello
+===
+Hola
+
+Thank you
+===
+Gracias
+
+Good morning
+===
+Buenos días
+
+How are you?
+===
+¿Cómo estás?
+
+See you later
+===
+Hasta luego
+
+Please
+===
+Por favor
+
+Where is the bathroom?
+===
+¿Dónde está el baño?
+
+I would like a coffee
+===
+Me gustaría un café
